@@ -148,7 +148,6 @@ spam(){
         mulai
     fi
 }
-}
 close(){
     exit
 }
