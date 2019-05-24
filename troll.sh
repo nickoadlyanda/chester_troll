@@ -1,7 +1,7 @@
 #!/bin/bash
 #PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI
 #GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)
-troll()
+troll(){
 ///////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////
 ////                                                                       ////
@@ -12,7 +12,7 @@ troll()
 ////             ||     |||  ||  ||||||||  ||    ||  ||||||||              ////
 ////                                                                       ////
 ///////////////////////////////////////////////////////////////////////////////
-{clear
+clear
     sleep 0.03
     echo "         _ "
     sleep 0.03
